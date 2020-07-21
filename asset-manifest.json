@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/zyBooks/static/css/main.9fd21d50.chunk.css",
-    "main.js": "/zyBooks/static/js/main.57a31dce.chunk.js",
-    "main.js.map": "/zyBooks/static/js/main.57a31dce.chunk.js.map",
+    "main.js": "/zyBooks/static/js/main.395d2c5a.chunk.js",
+    "main.js.map": "/zyBooks/static/js/main.395d2c5a.chunk.js.map",
     "runtime-main.js": "/zyBooks/static/js/runtime-main.3bedfe0a.js",
     "runtime-main.js.map": "/zyBooks/static/js/runtime-main.3bedfe0a.js.map",
     "static/js/2.1d1ef64e.chunk.js": "/zyBooks/static/js/2.1d1ef64e.chunk.js",
     "static/js/2.1d1ef64e.chunk.js.map": "/zyBooks/static/js/2.1d1ef64e.chunk.js.map",
     "index.html": "/zyBooks/index.html",
-    "precache-manifest.8231f394548e0882a23870dfe3c6946d.js": "/zyBooks/precache-manifest.8231f394548e0882a23870dfe3c6946d.js",
+    "precache-manifest.5785f29b591321ff3f72e33b443100e5.js": "/zyBooks/precache-manifest.5785f29b591321ff3f72e33b443100e5.js",
     "service-worker.js": "/zyBooks/service-worker.js",
     "static/css/main.9fd21d50.chunk.css.map": "/zyBooks/static/css/main.9fd21d50.chunk.css.map",
     "static/js/2.1d1ef64e.chunk.js.LICENSE.txt": "/zyBooks/static/js/2.1d1ef64e.chunk.js.LICENSE.txt",
@@ -46,6 +46,6 @@
     "static/js/runtime-main.3bedfe0a.js",
     "static/js/2.1d1ef64e.chunk.js",
     "static/css/main.9fd21d50.chunk.css",
-    "static/js/main.57a31dce.chunk.js"
+    "static/js/main.395d2c5a.chunk.js"
   ]
 }

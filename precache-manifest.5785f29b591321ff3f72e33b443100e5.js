@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23c0eede2a60b41f791eb11d8306a1a0",
+    "revision": "b52f2ddeefd8abdd0365ab9f48c6c800",
     "url": "/zyBooks/index.html"
   },
   {
-    "revision": "eb29cd4ada8038c73fd3",
+    "revision": "fc7747cbd30ca3724380",
     "url": "/zyBooks/static/css/main.9fd21d50.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zyBooks/static/js/2.1d1ef64e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eb29cd4ada8038c73fd3",
-    "url": "/zyBooks/static/js/main.57a31dce.chunk.js"
+    "revision": "fc7747cbd30ca3724380",
+    "url": "/zyBooks/static/js/main.395d2c5a.chunk.js"
   },
   {
     "revision": "7ab5b5d1a2e5b1267b2e",
